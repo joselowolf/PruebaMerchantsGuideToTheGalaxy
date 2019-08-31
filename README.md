@@ -25,18 +25,18 @@ A number written in Arabic numerals can be broken into digits. For example, 1903
 
 Test input:
 
-glob is I
-prok is V
-pish is X
-tegj is L
-glob glob Silver is 34 Credits<
-glob prok Gold is 57800 Credits
-pish pish Iron is 3910 Credits
-how much is pish tegj glob glob ?
-how many Credits is glob prok Silver ?
-how many Credits is glob prok Gold ?
-how many Credits is glob prok Iron ?
-how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
+glob is I<br/>
+prok is V<br/>
+pish is X<br/>
+tegj is L<br/>
+glob glob Silver is 34 Credits<br/>
+glob prok Gold is 57800 Credits<br/>
+pish pish Iron is 3910 Credits<br/>
+how much is pish tegj glob glob ?<br/>
+how many Credits is glob prok Silver ?<br/>
+how many Credits is glob prok Gold ?<br/>
+how many Credits is glob prok Iron ?<br/>
+how much wood could a woodchuck chuck if a woodchuck could chuck wood ?<br/>
 
 
 Test Output:<br />
@@ -118,8 +118,8 @@ OK
 ```
 
 ## Software desarrollo
-Python 2.7.10
-Microsof Visual Studio Code Versión: 1.37.1
-Mac os Mojave Version 10.14.16.
+Python 2.7.10<br/>
+Microsof Visual Studio Code Versión: 1.37.1<br/>
+Mac os Mojave Version 10.14.16.<br/>
 
 La ejecucion en windows en las misma no deberia traer errores o problemas.
