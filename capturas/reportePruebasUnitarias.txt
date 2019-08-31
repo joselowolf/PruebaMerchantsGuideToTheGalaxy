@@ -1,0 +1,15 @@
+test_ejercicio1 (test_convertir_romandos.TestStringMethods) ... ok
+test_ejercicio1903 (test_convertir_romandos.TestStringMethods) ... ok
+test_ejercicio1944 (test_convertir_romandos.TestStringMethods) ... ok
+test_ejercicio2 (test_convertir_romandos.TestStringMethods) ... ok
+test_ejercicio2006 (test_convertir_romandos.TestStringMethods) ... ok
+test_ejercicio39 (test_convertir_romandos.TestStringMethods) ... ok
+test_ejercicio4 (test_convertir_romandos.TestStringMethods) ... ok
+test_ejercicio5 (test_convertir_romandos.TestStringMethods) ... ok
+test_ejercicio6 (test_convertir_romandos.TestStringMethods) ... ok
+test_ejercicioERROR (test_convertir_romandos.TestStringMethods) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.011s
+
+OK
